@@ -1,3 +1,7 @@
+.SpeechBubble .speech-bubble-avatar {
+	width: 55px;
+}
+
 .councilcom {
 	color: white;
 	border-radius: 7px;
@@ -9,8 +13,17 @@
 	width: 46px;
 	margin-left: -3px;
 }
-.SpeechBubble .speech-bubble-avatar {
-	width: 55px;
+
+.vanguardcom {
+	color: white;
+	border-radius: 7px;
+	border: 1px solid DarkCyan;
+	background: DarkCyan;
+	padding: 0 5px;
+	padding-bottom: 1px;
+	font-size: 11px;
+	width: 46px;
+	margin-left: -4px;
 }
 .burocom {
 	color: white;
