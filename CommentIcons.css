@@ -1,19 +1,26 @@
 .hypecom {
-color: white;
-border-radius: 7px;
-border: 1px solid purple;
-background: purple;
-padding: 0 5px;
-word-break: break-word;
-font-size:10px;
+	color: white;
+	border-radius: 7px;
+	border: 1px solid purple;
+	background: purple;
+	padding: 0 5px;
+	word-break: break-word;
+	font-size: 10px;
 }
 .SpeechBubble .speech-bubble-avatar {
 	width: 55px;
 }
-
 .burocom {
-color: white;
-border-radius: 7px;
-border: 1px solid #FFF;
-background-image: linear-gradient(to bottom,#136CBA 0%,#0E59AA 100%) !important;
+	color: white;
+	border-radius: 7px;
+	border: 1px solid #FFF;
+	background-image: linear-gradient(to bottom, #136CBA 0%, #0E59AA 100%) !important;
+	font-size: 10px;
+	width: 54px;
+	text-align: left;
+	margin-left: -5px;
+	margin-top: -1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	padding-top: 1px;
 }
