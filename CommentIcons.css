@@ -24,3 +24,15 @@
 	padding-bottom: 1px;
 	padding-top: 1px;
 }
+
+.dmcom {
+	color: white;
+	border-radius: 13px;
+	border: 1px solid green;
+	background: green;
+	padding: 0 5px;
+	font-size: 10px;
+	text-align: left;
+	margin-left: -7px;
+	margin-right: -1px;
+}
