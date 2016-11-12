@@ -25,6 +25,21 @@
 	padding-top: 1px;
 }
 
+.sysopcom {
+	color: white;
+	border-radius: 7px;
+	border: 1px solid #e36600;
+	background: #e36600;
+	font-size: 11px;
+	width: 65px;
+	text-align: left;
+	margin-left: -8px;
+	margin-top: -1px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+}
+
 .dmcom {
 	color: white;
 	border-radius: 13px;
