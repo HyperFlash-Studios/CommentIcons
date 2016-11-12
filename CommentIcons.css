@@ -5,7 +5,9 @@
 	background: purple;
 	padding: 0 5px;
 	word-break: break-word;
-	font-size: 10px;
+	font-size: 11px;
+	width: 46px;
+	margin-left: -3px;
 }
 .SpeechBubble .speech-bubble-avatar {
 	width: 55px;
@@ -15,8 +17,8 @@
 	border-radius: 7px;
 	border: 1px solid #FFF;
 	background-image: linear-gradient(to bottom, #136CBA 0%, #0E59AA 100%) !important;
-	font-size: 10px;
-	width: 54px;
+	font-size: 11px;
+	width: 58px;
 	text-align: left;
 	margin-left: -5px;
 	margin-top: -1px;
@@ -24,7 +26,6 @@
 	padding-bottom: 1px;
 	padding-top: 1px;
 }
-
 .sysopcom {
 	color: white;
 	border-radius: 7px;
@@ -33,7 +34,7 @@
 	font-size: 11px;
 	width: 65px;
 	text-align: left;
-	margin-left: -8px;
+	margin-left: -10px;
 	margin-top: -1px;
 	padding-right: 1px;
 	padding-left: 3px;
@@ -46,8 +47,8 @@
 	border: 1px solid green;
 	background: green;
 	padding: 0 5px;
-	font-size: 10px;
-	text-align: left;
-	margin-left: -7px;
-	margin-right: -1px;
+	font-size: 11px;
+	text-align: center;
+	margin-left: -8px;
+	margin-right: -8px;
 }
