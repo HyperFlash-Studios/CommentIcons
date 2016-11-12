@@ -1,6 +1,18 @@
 .SpeechBubble .speech-bubble-avatar {
 	width: 55px;
 }
+.vstfcom {
+	color: white;
+	border-radius: 7px;
+	border: 1px solid #6699FF;
+	background: #6699FF;
+	text-align: center;
+	padding: 0 5px;
+	padding-bottom: 1px;
+	font-size: 11px;
+	width: 35px;
+	margin-left: -2px;
+}
 
 .councilcom {
 	color: white;
