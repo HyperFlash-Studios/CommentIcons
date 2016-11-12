@@ -3,5 +3,5 @@ $('li[data-user="HyperFlash Studios"] > .speech-bubble-avatar').append('<div cla
 });
 
 $(document).ready(function() {
-  $('li[data-user="Alemas2005"] > .speech-bubble-avatar').append('<div class=burocom">Bureaucrat</div>);
+  $('li[data-user="Alemas2005"] > .speech-bubble-avatar').append('<div class="burocom">Bureaucrat</div>');
 });
