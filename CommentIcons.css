@@ -1,10 +1,8 @@
 .SpeechBubble .speech-bubble-avatar {
 	width: 55px;
 }
+
 .staffcom, .helpercom, .vanguardcom, .councilcom, .vstfcom, .burocom, .sysopcom, .dmcom {
-	border-radius: 7px;
-	color: white;
-	padding: 0 5px;
 	font-size: 11px;
 }
 
@@ -14,14 +12,18 @@
 	border: 1px solid #00FF66;
 	background: #00FF66;
 	text-align: center;
+	padding: 0 5px;
 	padding-bottom: 1px;
 	width: 35px;
 	margin-left: 1px;
 }
 
 .helpercom {
+	color: white;
+	border-radius: 7px;
 	border: 1px solid #6666CC;
 	background: #6666CC;
+	padding: 0 5px;
 	padding-left: 7px;
 	padding-bottom: 1px;
 	width: 33px;
@@ -29,30 +31,41 @@
 }
 
 .vstfcom {
+	color: white;
+	border-radius: 7px;
 	border: 1px solid #6699FF;
 	background: #6699FF;
 	text-align: center;
+	padding: 0 5px;
 	padding-bottom: 1px;
 	width: 35px;
 	margin-left: -2px;
 }
 
 .councilcom {
+	color: white;
+	border-radius: 7px;
 	border: 1px solid purple;
 	background: purple;
+	padding: 0 5px;
+	word-break: break-word;
 	width: 46px;
 	margin-left: -3px;
 }
 
 .vanguardcom {
+	color: white;
+	border-radius: 7px;
 	border: 1px solid DarkCyan;
 	background: DarkCyan;
+	padding: 0 5px;
 	padding-bottom: 1px;
 	width: 46px;
 	margin-left: -4px;
 }
-
 .burocom {
+	color: white;
+	border-radius: 7px;
 	border: 1px solid #FFF;
 	background-image: linear-gradient(to bottom, #136CBA 0%, #0E59AA 100%) !important;
 	width: 58px;
@@ -64,22 +77,25 @@
 	padding-top: 1px;
 }
 .sysopcom {
+	color: white;
+	border-radius: 7px;
 	border: 1px solid #e36600;
 	background: #e36600;
 	width: 65px;
 	text-align: left;
 	margin-left: -10px;
 	margin-top: -1px;
-	padding: 0 0;
 	padding-right: 1px;
 	padding-left: 3px;
 	padding-bottom: 1px;
 }
 
 .dmcom {
+	color: white;
 	border-radius: 13px;
 	border: 1px solid green;
 	background: green;
+	padding: 0 5px;
 	text-align: center;
 	margin-left: -8px;
 	margin-right: -8px;
