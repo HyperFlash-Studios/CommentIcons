@@ -1,54 +1,50 @@
 .group-tag {
+	color: white;
 	font-size: 11px;
 	border-radius: 7px;
 	width: auto;
+	border-width: 1px;
+	border-style: solid;
 }
 
 .staffcom {
 	color: DarkCyan;
-	border: 1px solid #00FF66;
+	border-color: #0F6;
 	background: #00FF66;
 }
 
 .helpercom {
-	color: white;
-	border: 1px solid #6666CC;
-	background: #6666CC;
+	border-color: #66C;
+	background: #66C;
 }
 
 .vstfcom {
-	color: white;
-	border: 1px solid #6699FF;
-	background: #6699FF;
+	border-color: #69F;
+	background: #69F;
 }
 
 .councilcom {
-	color: white;
-	border: 1px solid purple;
+	border-color: purple;
 	background: purple;
 }
 
 .vanguardcom {
-	color: white;
-	border: 1px solid DarkCyan;
+	border-color: DarkCyan;
 	background: DarkCyan;
 }
 .burocom {
-	color: white;
-	border: 1px solid #0E59AA;
+	border-color: #0E59AA;
 	background: #0E59AA;
 }
 
 .sysopcom {
-	color: white;
-	border: 1px solid #e36600;
+	border-color: #e36600;
 	background: #e36600;
 	width: 120%;
 }
 
 .dmcom {
-	color: white;
 	border-radius: 13px;
-	border: 1px solid green;
+	border-color: green;
 	background: green;
 	}
